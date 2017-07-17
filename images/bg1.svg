@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="400px" viewBox="0 0 449 400">
+  <defs>
+    <linearGradient id="agq" x1="100%" x2="0%" y1="0%" y2="100%">
+      <stop stop-color="#FE6C5F" offset="0%"></stop>
+      <stop stop-color="#FF4F81" offset="100%"></stop>
+    </linearGradient>
+    <linearGradient id="bgq" x1="50%" x2="50%" y1="100%" y2="0%">
+      <stop stop-color="#FFF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#FFF" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#agq)" d="M-.065 206.7c19.095-.184 21.56-14.142 54.684-14.142h65.974c32.478 0 33.384-18.61 66.438-18.61h64.806c32.766 0 32.72-15.004 65.487-15.004h65.306c32.192 0 33.155-21.856 65.346-21.856V-.842L0-.994-.065 206.7z" transform="translate(1 1)"></path>
+    <path fill="url(#bgq)" class="animatable" d="M.866 189.4c33.03 0 32.19-64.444 64.657-64.444h64.248c31.63 0 32.51-80.69 64.7-80.69h63.11c20.177 0 27.578-26.01 38.36-45.137H448V207.54l-447.134-.1v-18.043z" transform="translate(1 1)" style="opacity: 0.0952359; transform: translateY(0.0112466px);"></path>
+    <path fill="url(#bgq)" class="animatable" d="M.866 194.374c33.03 0 32.19-46.77 64.657-46.77h64.248c31.63 0 32.51-58.56 64.7-58.56h63.11c31.908 0 31.864-47.212 63.773-47.212h63.596c17.958 0 25.744-23.542 35.013-42.802L448-.995v208.537L.866 207.47v-13.096z" transform="translate(1 1)" style="opacity: 0.158061; transform: translateY(0.000184773px);"></path>
+    <path fill="url(#bgq)" class="animatable" d="M.866 198.008c33.03 0 32.19-33.863 64.657-33.863h64.248c31.63 0 32.51-42.4 64.7-42.4h63.11c31.908 0 31.864-34.183 63.773-34.183h63.596c31.348 0 31.7-49.743 63.05-49.743V207.54L.866 207.49v-9.482z" transform="translate(1 1)" style="opacity: 0.195025; transform: translateY(0.00134324px);"></path>
+    <path fill="url(#bgq)" class="animatable" d="M.866 201.334c33.03 0 32.19-22.048 64.657-22.048h64.248c31.63 0 32.51-27.606 64.7-27.606h63.11c31.908 0 31.864-22.257 63.773-22.257h63.596c31.348 0 31.7-32.387 63.05-32.387v110.506L.866 207.507v-6.173z" transform="translate(1 1)" style="opacity: 0.211924; transform: translateY(0.00356661px);"></path>
+  </g>
+</svg>
+
